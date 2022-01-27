@@ -1,6 +1,6 @@
 {
   "name": "logseq-property-visualizer",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A plugin to visualize and graph trends in page properties",
   "author": "@sawhney17",
   "license": "MIT",
